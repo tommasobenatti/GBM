@@ -55,7 +55,7 @@
             </div>
 			<div class="blasphemy-div">
 				<div class="creator">
-					<form class="creationform" action="#" method="POST">
+					<form class="creationform" method="POST">
 						<input class="creationbutton" type="submit" value="CREA">
 					</form>
 				</div>
