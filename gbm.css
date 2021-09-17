@@ -1,0 +1,73 @@
+body {
+    background: linear-gradient(270deg, #ff10f0, #7f00ff, #0000ff, #00ffff, #119bc0, #ff5f1f, #ff4433, #0fff50, #dfff00);
+    background-size: 1800% 1800%;
+
+    -webkit-animation: Background_Animation 450s ease infinite;
+    -moz-animation: Background_Animation 450s ease infinite;
+    -o-animation: Background_Animation 450s ease infinite;
+    animation: Background_Animation 450s ease infinite;
+}
+
+@-webkit-keyframes Background_Animation {
+    0%{background-position:0% 90%}
+    50%{background-position:100% 11%}
+    100%{background-position:0% 90%}
+}
+@-moz-keyframes Background_Animation {
+    0%{background-position:0% 90%}
+    50%{background-position:100% 11%}
+    100%{background-position:0% 90%}
+}
+@-o-keyframes Background_Animation {
+    0%{background-position:0% 90%}
+    50%{background-position:100% 11%}
+    100%{background-position:0% 90%}
+}
+@keyframes Background_Animation {
+    0%{background-position:0% 90%}
+    50%{background-position:100% 11%}
+    100%{background-position:0% 90%}
+}
+
+
+body {
+    font-family: 'Questrial', sans-serif;
+}
+.maindiv {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.h1-title {
+    color: #FFFFFF;
+    font-size: 100px;
+}
+.blasphemy-div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.creationbutton {
+    font-family: inherit;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: default;
+    width: 400px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: #FFFFFF;
+    background: transparent;
+}
+.creationbutton:hover {
+    cursor: pointer;
+}
+.blasphemy {
+    border-color: #FFFFFF;
+    border-style: double hidden double hidden;
+    border-width: 8px;
+    color: #FFFFFF;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
