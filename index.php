@@ -7,7 +7,7 @@
 	} else {
 		$name_gend = "m";
 	}
-	$attr_file_path = "/var/www/tommasobenatti/gbm/attributes_".$name_gend.".txt";
+	$attr_file_path = "./attributes_".$name_gend.".txt";
 	//Open file with reading attributes
 	$attr_file = fopen($attr_file_path, "r");
 	//Check if file is set
