@@ -48,7 +48,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet"> 
         <title>Google Bestemmiator</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	    <meta property="og:description" content="Il sito ideale per porconare">
+	    <meta property="og:description" content="Il tuo sito ideale per porconare">
 		<meta property="og:title" content="Google Bestemmiator">
 
     </head>
